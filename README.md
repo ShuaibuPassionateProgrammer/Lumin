@@ -1,6 +1,8 @@
 # Lumin
 
-Lumin is a TypeScript-based project designed for modern app development. Its modular structure and use of robust technologies make it adaptable for a variety of applications.
+Lumin is a modern, modular social spotlight app built with React Native and TypeScript. Designed for scalability and maintainability, Lumin enables users to engage in a social experience through features like likes, comments, and dynamic content interactions.
+
+⚡ A mobile-first platform designed for social storytelling, discovery, and interaction.
 
 ## Project Structure
 
